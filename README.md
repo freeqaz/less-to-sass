@@ -12,3 +12,5 @@ npm run convert
 # Files now exist in output folder!
 ```
 
+By default, it will export `.scss` files. You can change this in the `Gruntfile.js` by changing the config.
+
